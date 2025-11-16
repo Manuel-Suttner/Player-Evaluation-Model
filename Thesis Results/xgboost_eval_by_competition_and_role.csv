@@ -1,0 +1,22 @@
+role,competition_name,avg_RMSE,avg_MAE,model_name
+Defender,English first division,4.858743028529212,3.9366184283826273,XGBoost
+Defender,European Championship,5.528992949852291,4.5848143420712155,XGBoost
+Defender,French first division,4.300325401149658,3.4538078522313715,XGBoost
+Defender,German first division,4.390402446710184,3.5183031857085676,XGBoost
+Defender,Italian first division,4.537408653252167,3.6434107913240745,XGBoost
+Defender,Spanish first division,4.604911975238507,3.744651052841484,XGBoost
+Defender,World Cup,6.123444219925832,5.24407174485366,XGBoost
+Forward,English first division,8.23773441625022,6.871734950595036,XGBoost
+Forward,European Championship,8.83746910052606,7.534658718739636,XGBoost
+Forward,French first division,7.91422665748965,6.496864499466386,XGBoost
+Forward,German first division,8.359427181726574,6.865651439743791,XGBoost
+Forward,Italian first division,7.781624866271344,6.342593311794609,XGBoost
+Forward,Spanish first division,8.601116393077413,7.1222818459169,XGBoost
+Forward,World Cup,9.870048780574026,8.479145513278944,XGBoost
+Midfielder,English first division,7.0592289599850995,5.712080093315781,XGBoost
+Midfielder,European Championship,7.536662198127713,6.31376792719369,XGBoost
+Midfielder,French first division,6.445437103133212,5.211129357844555,XGBoost
+Midfielder,German first division,6.4892217919169,5.1975404072124665,XGBoost
+Midfielder,Italian first division,6.57154275429171,5.397796502509949,XGBoost
+Midfielder,Spanish first division,6.435911533486917,5.189800078624639,XGBoost
+Midfielder,World Cup,8.627813228554546,7.334869272076439,XGBoost

@@ -1,0 +1,13 @@
+feature,mean_abs_shap,role
+duel_balance,0.6877661131811299,Forward
+successful_passes_per90,0.6412204264143286,Forward
+shots_on_target_per90,0.22053340285331557,Forward
+xA_per90,0.19278873901274735,Forward
+goals_per90,0.17966585129936744,Forward
+tackles_per90,0.11685061095681787,Forward
+interceptions_per90,0.06253660333745213,Forward
+xG_per90,0.062404833089716664,Forward
+dribbles_completed_per90,0.059067166631761994,Forward
+progressive_passes_per90,0.04694201666427515,Forward
+clearances_per90,0.023471222469319247,Forward
+crosses_per90,0.019538787665210982,Forward

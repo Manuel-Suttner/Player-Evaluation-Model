@@ -1,0 +1,13 @@
+feature,mean_abs_shap,role
+crosses_per90,0.22002692594835574,Defender
+dribbles_completed_per90,0.21567120949704652,Defender
+duel_balance,0.1701555551984772,Defender
+progressive_passes_per90,0.10341907747661545,Defender
+clearances_per90,0.09214950816099032,Defender
+tackles_per90,0.04267001266636935,Defender
+interceptions_per90,0.036185786241930216,Defender
+successful_passes_per90,0.02823588959525967,Defender
+xA_per90,0.01934035049871819,Defender
+xG_per90,0.006372024839929092,Defender
+shots_on_target_per90,0.0013763573948692668,Defender
+goals_per90,0.000250758508691201,Defender

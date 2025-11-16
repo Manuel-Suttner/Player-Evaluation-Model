@@ -1,0 +1,13 @@
+feature,mean_abs_shap,role
+duel_balance,0.501576775344033,Midfielder
+crosses_per90,0.2421133535107415,Midfielder
+dribbles_completed_per90,0.21342742170122664,Midfielder
+successful_passes_per90,0.18731846061456603,Midfielder
+shots_on_target_per90,0.16674348530476496,Midfielder
+clearances_per90,0.12749363721526957,Midfielder
+tackles_per90,0.08636253441294557,Midfielder
+xA_per90,0.06429442069651758,Midfielder
+xG_per90,0.06185429750448343,Midfielder
+interceptions_per90,0.02386332736388387,Midfielder
+goals_per90,0.02245443688802678,Midfielder
+progressive_passes_per90,0.007039249615181504,Midfielder

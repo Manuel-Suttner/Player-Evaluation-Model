@@ -1,0 +1,46 @@
+role,player_id,player,n_obs,arima_order,arima_next_forecast
+Defender,222766,Bruno Gaspar,36,"(0, 1, 1)",16.577965057754653
+Defender,3460,Coke,29,"(0, 1, 1)",16.567727438536025
+Defender,252365,D. Yedlin,34,"(1, 0, 0)",16.5017047448514
+Defender,135903,Jo\u00e3o Cancelo,39,"(0, 1, 1)",16.398871859990912
+Defender,4238,M\u00edchel,38,"(0, 1, 1)",16.188753266237587
+Defender,40301,Lucas Lima,40,"(1, 0, 0)",15.990653368243148
+Defender,3310,Marcelo,45,"(0, 1, 1)",15.922471778688589
+Defender,4501,Daniel Carvajal,45,"(0, 1, 1)",15.835588404078889
+Defender,215281,A. Mbengue,41,"(1, 1, 0)",15.816890389589272
+Defender,4908,Alberto Moreno,38,"(1, 1, 0)",15.81173269908607
+Defender,346101,T. Alexander-Arnold,40,"(1, 0, 0)",15.786447162435401
+Defender,224593,J. Kimmich,105,"(0, 1, 1)",15.765415114800026
+Defender,91702,J. Mojica,42,"(1, 1, 0)",15.732927210952809
+Defender,14922,R. Rodr\u00edguez,107,"(0, 1, 1)",15.682249523806714
+Defender,286825,J. Kenny,21,"(0, 1, 1)",15.666294652197658
+Forward,8326,M. Balotelli,39,"(1, 1, 0)",27.31570038326156
+Forward,7970,A. Carroll,34,"(1, 1, 0)",27.230654415199073
+Forward,3359,L. Messi,45,"(0, 1, 1)",26.161241449045136
+Forward,50023,J. Drmic,32,"(1, 1, 0)",24.629156949139155
+Forward,40810,Neymar,47,"(1, 1, 0)",24.62494057888989
+Forward,14732,T. M\u00fcller,106,"(0, 1, 1)",24.437287746547657
+Forward,25707,E. Hazard,109,"(0, 1, 1)",24.282430169423577
+Forward,15808,Roberto Firmino,47,"(1, 0, 0)",23.748104188795764
+Forward,276211,A. Saint-Maximin,41,"(1, 1, 0)",23.726500244388035
+Forward,38093,M. Batshuayi,105,"(0, 1, 1)",23.67299818035157
+Forward,352993,Y. Karamoh,33,"(1, 1, 0)",23.671734801291507
+Forward,120353,Mohamed Salah,45,"(0, 1, 1)",23.44160032394987
+Forward,237034,Gon\u00e7alo Guedes,47,"(1, 1, 0)",23.24463133394568
+Forward,14911,Son Heung-Min,45,"(0, 1, 1)",23.243039734795282
+Forward,328131,C. Akolo,33,"(1, 1, 0)",23.222854281381846
+Midfielder,4513,D. Cheryshev,42,"(1, 1, 0)",22.35361858375563
+Midfielder,40806,Felipe Anderson,22,"(0, 1, 1)",22.09918864975112
+Midfielder,16110,K. Kampl,38,"(1, 1, 0)",21.966182922750434
+Midfielder,7906,Juan Mata,38,"(1, 1, 0)",21.81882882083187
+Midfielder,134397,S. Gnabry,36,"(1, 1, 0)",21.72886535781039
+Midfielder,3474,Jes\u00fas Navas,35,"(0, 1, 1)",21.719411985412442
+Midfielder,226200,M. Lazzari,35,"(0, 1, 1)",21.66553172042681
+Midfielder,217872,J. Iloki,37,"(1, 1, 0)",21.494529485397617
+Midfielder,356237,G. Lo Celso,37,"(0, 1, 1)",21.4750911054346
+Midfielder,330387,M. Coco,40,"(1, 0, 0)",21.399673412645424
+Midfielder,209209,F. Tait,40,"(0, 1, 1)",21.39922088422412
+Midfielder,127796,F. Kosti\u0107,44,"(1, 0, 0)",21.346327376139627
+Midfielder,25407,C. Grenier,33,"(1, 1, 0)",21.272730472092945
+Midfielder,22381,Daniel Bessa,38,"(1, 1, 0)",21.259774083666475
+Midfielder,288091,Marco Asensio,45,"(0, 1, 1)",21.253148854278262
